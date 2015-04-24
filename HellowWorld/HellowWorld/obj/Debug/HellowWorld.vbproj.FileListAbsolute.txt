@@ -1,0 +1,9 @@
+C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe.config
+C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\bin\Debug\HellowWorld.exe
+C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\bin\Debug\HellowWorld.pdb
+C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\bin\Debug\HellowWorld.xml
+C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\obj\Debug\HellowWorld.Resources.resources
+C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\obj\Debug\HellowWorld.vbproj.GenerateResource.Cache
+C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\obj\Debug\HellowWorld.exe
+C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\obj\Debug\HellowWorld.xml
+C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\obj\Debug\HellowWorld.pdb
