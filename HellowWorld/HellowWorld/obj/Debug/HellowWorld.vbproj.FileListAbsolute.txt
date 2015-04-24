@@ -7,3 +7,4 @@ C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\obj\Debug\HellowWorld.vb
 C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\obj\Debug\HellowWorld.exe
 C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\obj\Debug\HellowWorld.xml
 C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\obj\Debug\HellowWorld.pdb
+C:\Users\jhua\Documents\DBTEST2\HellowWorld\HellowWorld\obj\Debug\HellowWorld.Form1.resources
